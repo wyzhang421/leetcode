@@ -16,6 +16,7 @@ Rolling Hash
 
 <details>
 <summary>solution</summary>
+
 ```C++
 // time complexity: O(n^2)
 // 技巧 uint_64 的溢出取模 
@@ -49,6 +50,7 @@ public:
     }
 };
 ```
+
 </details>
 
 
