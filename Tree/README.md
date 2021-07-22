@@ -1,4 +1,4 @@
-[094.Binary-Tree-Inorder-Traversal]   
+[094.Binary-Tree-Inorder-Traversal](https://github.com/wyzhang421/leetcode/tree/master/Tree/094.Binary-Tree-Inorder-Traversal)   
 [095.Unique-Binary-Search-Trees-II]   
 [098.Validate-Binary-Search-Tree]   
 [099.Recover-Binary-Search-Tree]   
