@@ -31,6 +31,7 @@
 [1787.Make-the-XOR-of-All-Segments-Equal-to-Zero] (H)  
 [1872.Stone-Game-VIII] (H-)  
 [1900.The-Earliest-and-Latest-Rounds-Where-Players-Compete] (H)  
+[1937.Maximum-Number-of-Points-with-Cost](https://github.com/wyzhang421/leetcode/tree/master/DP/1937.Maximum-Number-of-Points-with-Cost) (H-)
 * ``基本型 I``   
 [198.House-Robber] (E)   
 [213.House-Robber-II] (M+)    
