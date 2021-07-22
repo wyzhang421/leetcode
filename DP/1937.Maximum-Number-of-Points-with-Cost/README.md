@@ -12,6 +12,8 @@ time complextity: O(n\*m\*m)
 
 这个思路可以继续优化成为拆开绝对值，然后分类讨论。
 
+time complextity: O(n\*m)
+
 ```
 if (k <= j)    
 dp[i][j] = max(dp[i-1][k] + points[i][j] - j + k) 
