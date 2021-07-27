@@ -38,4 +38,7 @@
 ## String
 [solutions](https://github.com/wyzhang421/leetcode/tree/master/String)
 ## Rolling Hash
-[solutions](https://github.com/wyzhang421/leetcode/tree/master/RollingHash)
+[solutions](https://github.com/wyzhang421/leetcode/tree/master/RollingHash)    
+
+## Others
+[solutions](https://github.com/wyzhang421/leetcode/tree/master/Others)    
